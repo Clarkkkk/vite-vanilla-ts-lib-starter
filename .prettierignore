@@ -1,6 +1,7 @@
 .history
 .husky
 .vscode
+*.md
 pnpm-lock.yaml
 coverage
 dist
