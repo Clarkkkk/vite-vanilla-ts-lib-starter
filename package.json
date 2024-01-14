@@ -1,7 +1,7 @@
 {
   "name": "vite-vanilla-ts-lib-starter",
   "description": "Typescript library starter",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "MIT",
   "author": "Aaron Zhou",
   "packageManager": "pnpm@8.6.3",

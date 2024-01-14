@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+# [0.3.0](https://github.com/Clarkkkk/vite-vanilla-ts-lib-starter/compare/v0.2.0...v0.3.0) (2024-01-14)
+
+
+### Features
+
+* provide a github actions template ([1c95a50](https://github.com/Clarkkkk/vite-vanilla-ts-lib-starter/commit/1c95a504144d7bb1a98802838a9e3d18099dbbbc))
+
+
+
 # 0.2.0 (2023-07-12)
 
 
