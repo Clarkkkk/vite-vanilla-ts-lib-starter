@@ -24,8 +24,8 @@ devDependencies:
     specifier: ^12.2.0
     version: 12.2.0
   conventional-changelog-aaron-preset:
-    specifier: ^1.0.4
-    version: 1.0.4
+    specifier: ^0.2.3
+    version: 0.2.3
   eslint:
     specifier: ^8.56.0
     version: 8.56.0
@@ -1473,9 +1473,9 @@ packages:
       typedarray: 0.0.6
     dev: true
 
-  /conventional-changelog-aaron-preset@1.0.4:
-    resolution: {integrity: sha512-FMTLH7FshxmgLAC1sMiPqrxiqx4s4cvNlfcIUAOEkrqILJ/R9ntVyQTlgRq4r17KE3QgN3YgkZs0kLhSYaClvg==}
-    engines: {node: '>=16'}
+  /conventional-changelog-aaron-preset@0.2.3:
+    resolution: {integrity: sha512-SCkk8QJ2dUaXWgMXMaGEYiOazfJm+3R9aefAyA61HYsLwa18EwzaFfQ6ZNkNU1J89hBOhwiZYEMs+TT6iBPJVA==}
+    engines: {node: '>=14'}
     dev: true
 
   /conventional-changelog-angular@5.0.13:
