@@ -2,6 +2,7 @@
 import path from 'path'
 import { defineConfig } from 'vite'
 import dts from 'vite-plugin-dts'
+import { externalizeDeps } from 'vite-plugin-externalize-deps'
 
 export default defineConfig({
     base: './',
@@ -11,6 +12,6 @@ export default defineConfig({
             formats: ['cjs', 'es']
         }
     },
-    plugins: [dts()],
+    plugins: [dts(), externalizeDeps()],
     test: {}
 })
